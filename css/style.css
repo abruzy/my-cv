@@ -82,7 +82,7 @@ span.other-names {
 .front-end_item {
   display: grid;
   align-items: center;
-  grid-template-columns: 100px 2fr 20px;
+  grid-template-columns: 150px 1fr 150px;
 }
 
 progress {
@@ -144,7 +144,7 @@ hr {
 }
 
 .side-projects {
-  height: 190px;
+  height: auto;
 }
 
 .side-projects a {
@@ -153,7 +153,7 @@ hr {
 }
 
 .side-projects p {
-  line-height: 12px;
+  line-height: 25px;
 }
 
 .github>img, .linked-in>img, .codepen>svg {
